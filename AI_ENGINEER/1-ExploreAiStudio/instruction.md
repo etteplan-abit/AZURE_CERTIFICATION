@@ -4,3 +4,10 @@ In this exercise, you use Azure AI Foundry portal to create a hub and project, r
 
 [Explore Azure AI Studio exercise](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/01-Explore-ai-studio.html)
 
+## Steps
+
+1. Navigate to the Azure AI Foundry portal.
+2. Create a hub and project.
+3. Add a connected resource.
+4. Explore AI Services.
+5. Deploy and test a generative AI model.
