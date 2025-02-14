@@ -4,8 +4,8 @@ The purpose of this repo is to document and navigate of various learning tasks i
 
 
 ## Table of Contents
-1. Usefull Links
-2. Tips and Tricks
+1. [Usefull Links](#usefull-links)
+2. [Tips and Tricks](#tips-and-tricks)
 
 ## Usefull Links
 [AI Foundry](https://ai.azure.com/)
