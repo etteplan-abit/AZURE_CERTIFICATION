@@ -1,4 +1,4 @@
-# AZURE_CERTIFICATION
+## Azure AI-102 - AI Engineer Associate
 
 The purpose of this repo is to document and navigate of various learning tasks in regards to AZURE CERTIFICATIONS. 
 
