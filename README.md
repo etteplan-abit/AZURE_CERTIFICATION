@@ -49,3 +49,5 @@ If you plan to work across multiple code and data directories, or multiple repos
 1. Enter Ctrl+Shift+p to open the command palette. Search for and select Workspaces: Add Folder to Workspace.
 2. Select the repository folder that you want to load. You should see a new section in your file explorer for the folder you opened. If it was a repository, you can now work with source control in VS Code.
 3. If you want to save this configuration for future development sessions, again enter Ctrl+Shift+p and select Workspaces: Save Workspace As. This action saves a config file to your current folder.
+
+
