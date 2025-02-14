@@ -57,4 +57,4 @@ If you plan to work across multiple code and data directories, or multiple repos
 1. Adding Exercise or Project under the AI_ENGINEER folder.
 2. Adding Tips and Tricks in the ai_engineer.md file.
 3. Adding Useful Links in the ai_engineer.md file.
-4. Adding Questions and Answers in the under AI_ENGINEER/0-PracticeAssessment folder.
+4. Adding Questions and Answers under AI_ENGINEER/0-PracticeAssessment folder.
