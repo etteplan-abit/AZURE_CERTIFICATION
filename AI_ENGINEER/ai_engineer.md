@@ -1,7 +1,11 @@
-# Exercise Paths
+# Contents
+1. [Useful Links](#useful_links)
+2. [Tips](#tips)
+3. [Projects Structure](#projects_structure)
+
 
 ## Overview
-Exercises and projects to practice AI engineering skills.
+Practice Assesment Questions, Exercises and projects to learn and prepare for Azure AI engineering Associate.
 
 ## Useful Links
 [Get started with Azure AI Foundry projects in VS Code](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/vscode) contains information about using the VS Code container image in Azure AI Foundry portal.
