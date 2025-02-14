@@ -6,6 +6,7 @@ The purpose of this repo is to document and navigate of various learning tasks i
 ## Table of Contents
 1. [Usefull Links](#usefull-links)
 2. [Tips and Tricks](#tips-and-tricks)
+3. [How to contribute](#how-to-contribute)
 
 ## Usefull Links
 [AI Foundry](https://ai.azure.com/)
@@ -51,3 +52,9 @@ If you plan to work across multiple code and data directories, or multiple repos
 3. If you want to save this configuration for future development sessions, again enter Ctrl+Shift+p and select Workspaces: Save Workspace As. This action saves a config file to your current folder.
 
 
+## How to contribute
+
+1. Adding Exercise or Project under the AI_ENGINEER folder.
+2. Adding Tips and Tricks in the ai_engineer.md file.
+3. Adding Useful Links in the ai_engineer.md file.
+4. Adding Questions and Answers in the under AI_ENGINEER/0-PracticeAssessment folder.
